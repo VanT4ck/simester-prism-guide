@@ -1,5 +1,6 @@
 # simester-prism-guide
 How to Get the Good Ending
+
 Chapter 1 — First Encounter
 Choose: "You seem... lonely"
 Choose: "Tell me about the valley. What happened here?"
